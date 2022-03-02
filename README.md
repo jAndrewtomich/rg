@@ -1,3 +1,5 @@
+# ATTENTION: THIS IS NOT THE OFFICIAL VERSION OF RAWGRAPHS.  THE OFFICIAL VERSION CAN BE FOUND AT https://rawgraphs.io
+
 ## About
 
 **RAWGraphs** is an open web tool to create custom vector-based visualizations on top of the amazing [d3.js](https://github.com/mbostock/d3) library.
