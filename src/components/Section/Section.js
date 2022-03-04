@@ -11,7 +11,7 @@ export default function Section(props) {
       }
     >
       <div>
-        <h1>THIS IS A CUSTOM CONTAINER</h1>
+        <h1>THIS IS A CUSTOM CONTAINER FOR NICHOLAS J</h1>
       </div>
       <Row>
         <Col>
